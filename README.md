@@ -3,7 +3,7 @@
 FALCON (**Flexible Aerial and Land reCONnaissance**) is a fully autonomous capable aerial-ground surveillance system designed for reconnaissance in environments with **limited aerial visibility** (e.g., dense forests, urban canyons). The system consists of a **hexacopter UAV** capable of **tethered deployment and retrieval** of an **autonomous GPS-guided ground rover**, allowing for **seamless integration of aerial and terrestrial intelligence gathering**.  
 ![Falcon recolored](https://github.com/user-attachments/assets/9e215db9-b62f-487b-9784-b4695a15f978)
 
-
+**This project won the Kolkata Maker Faire 2018 Best Project Demonstration Award!!**
 ### **🛸 Key Features**  
 - **Autonomous Hexacopter UAV** – Powered by **Pixhawk**, featuring **dual GPS and dual compass** for enhanced redundancy.  
 - **Tethered Deployment & Retrieval** – Enables precise airdrop and recovery of the ground rover for extended mission flexibility.  
