@@ -1,4 +1,4 @@
-# **FALCON: Flexible Aerial and Land reCONnaissance System**  
+# **FALCON: Flexible Aerial and Land reCONnaissance system**  
 
 FALCON (**Flexible Aerial and Land reCONnaissance**) is a fully autonomous capable aerial-ground surveillance system designed for reconnaissance in environments with **limited aerial visibility** (e.g., dense forests, urban canyons). The system consists of a **hexacopter UAV** capable of **tethered deployment and retrieval** of an **autonomous GPS-guided ground rover**, allowing for **seamless integration of aerial and terrestrial intelligence gathering**.  
 ![Falcon recolored](https://github.com/user-attachments/assets/9e215db9-b62f-487b-9784-b4695a15f978)
